@@ -1,0 +1,21 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [235] using StatReload
+INFO:     Started server process [237]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:34696 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:34698 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34704 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34698 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34704 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34718 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34718 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56304 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42598 - "POST /chat HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39580 - "OPTIONS /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39582 - "POST /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43314 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43314 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51340 - "GET /mood HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51340 - "GET /mood HTTP/1.1" 200 OK
